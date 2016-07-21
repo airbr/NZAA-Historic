@@ -1,8 +1,11 @@
 I, 
 
 pub   4096R/8EE48008 2016-07-15 [expires: 2019-06-15]
+<br>
 uid       [ultimate] B Murrah (US/NZ) <info@airbridge.ac.nz>
+<br>
 uid       [ultimate] [jpeg image of size 82324]
+<br>:
 
 
 
