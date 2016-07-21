@@ -8,12 +8,11 @@ uid       [ultimate] [jpeg image of size 82324]
 <br>
 <br>
 
+License the following repository under:
+
+
 ---
 
-
-
-
-License the following repository under:
 
 CC0 1.0 Universal
 
