@@ -4,7 +4,7 @@
 
 www.atlantanz.org
 
-NB Several pages/info images and some quality content to re-cycle
+NB Several pages with info, images. Some is great quality worth re-using and some will kept as a historical curio within the new page.
 
 
 ## Me
