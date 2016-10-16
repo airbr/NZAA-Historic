@@ -29,6 +29,14 @@
       }
       .row.content {height:auto;}
     }
-#topbar {
+#maincontainer {
+  overflow: hidden;
+  }
+#theonetrueflag {
+  width:  80vw;
+  height: auto;
+  overflow: hidden;
+}
+.footer {
   overflow: hidden;
 }
